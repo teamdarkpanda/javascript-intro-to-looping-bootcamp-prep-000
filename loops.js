@@ -16,6 +16,7 @@ function whileLoop(n) {
   return "done"
 }
 
+// added helperFunction for use with doWhileLoop()
 function maybeTrue() {
   return Math.random() >= 0.5
 }
